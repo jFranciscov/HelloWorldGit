@@ -1,5 +1,4 @@
 git clone <repository>
-
 git branch
 git branch <new_branch>
 git status
