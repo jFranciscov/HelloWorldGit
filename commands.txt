@@ -1,0 +1,11 @@
+git clone <repository>
+
+git branch
+git branch <new_branch>
+git status
+git add <file>
+git add .
+git commit -m "message"
+git commit -am "add and commit"
+git push origin <branch>
+git merge <branch>
